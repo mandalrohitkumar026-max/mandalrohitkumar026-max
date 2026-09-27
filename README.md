@@ -1,3 +1,42 @@
+<div align="center">
+<pre>
+                 .-=========-.
+               .+###############+.
+              .+####*+=----=+*####+.
+             +####+.            .+####+
+            *###*.     .----.      *###*
+           *###*      +######+      *###*
+          +###*      *########*      *###*
+          ####+      ##*+==+*##      +####
+          ####+      ##  o  o ##      +####
+          ####+      ##   __  ##      +####
+          +###*      *##\____/##*      *###+
+           *###*       +######+       *###*
+            +####+.      ====      .+####+
+              +####*+.          .+*####+
+                +##################+
+                   +############+
+                      ||||||||
+                 _____||||||||_____
+              .-'     ||||||||     '-.
+            .'        ||||||||        '.
+           /        ROHIT KUMAR         \
+          /             CSE              \
+         /________________________________\
+</pre>
+
+### 👋 Hi there, I'm Rohit Kumar Mandal!
+*Computer Science Student • AI/ML Enthusiast • Full-Stack Developer*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-mandal-5145333b4)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/mandalrohitkumar026-max)
+
+</div>
+
+<br/>
+
 # 💫 About Me:
  I’m a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.<br><br>  I’m currently building AI-powered projects and exploring innovative solutions for real-world problems.<br><br>  I’m looking to collaborate on AI/ML, web development, hackathons, and open-source projects.<br><br>  I’m currently learning AI/ML, modern web technologies, and software development.<br><br>  Ask me about AI projects, web development, GitHub, and hackathons.<br><br>  Fun fact: I enjoy turning ideas into working projects and learning by building.
 
@@ -13,5 +52,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mandalrohitkumar026-max&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mandalrohitkumar026-max&icon=0&color=0)](https://visitcount.itsvg
+<div align="center">
 
+[![](https://komarev.com/ghpvc/?username=mandalrohitkumar026-max&color=blue)](https://github.com/mandalrohitkumar026-max)
+
+</div>
