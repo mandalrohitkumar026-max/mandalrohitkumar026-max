@@ -1,31 +1,5 @@
-.-=========-.
-                 .+###############+.
-               .+####*+=----=+*####+.
-              +####+.            .+####+
-             *###*.     .----.      *###*
-            *###*      +######+      *###*
-           +###*      *########*      *###*
-           ####+      ##*+==+*##      +####
-           ####+      ##  o  o ##      +####
-           ####+      ##   __  ##      +####
-           +###*      *##\____/##*      *###+
-            *###*       +######+       *###*
-             +####+.      ====      .+####+
-               +####*+.          .+*####+
-                 +##################+
-                    +############+
-                      ||||||||
-                 _____||||||||_____
-              .-'     ||||||||     '-.
-            .'         ||||||||        '.
-           /      ROHIT KUMAR          \
-          /          CSE                 \
-         /________________________________\
-
-
-
 # 💫 About Me:
-🎓 I’m a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.<br><br>🚀 I’m currently building AI-powered projects and exploring innovative solutions for real-world problems.<br><br>🤝 I’m looking to collaborate on AI/ML, web development, hackathons, and open-source projects.<br><br>🌱 I’m currently learning AI/ML, modern web technologies, and software development.<br><br>💡 Ask me about AI projects, web development, GitHub, and hackathons.<br><br>⚡ Fun fact: I enjoy turning ideas into working projects and learning by building.
+ I’m a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.<br><br>  I’m currently building AI-powered projects and exploring innovative solutions for real-world problems.<br><br>  I’m looking to collaborate on AI/ML, web development, hackathons, and open-source projects.<br><br>  I’m currently learning AI/ML, modern web technologies, and software development.<br><br>  Ask me about AI projects, web development, GitHub, and hackathons.<br><br>  Fun fact: I enjoy turning ideas into working projects and learning by building.
 
 
 ## 🌐 Socials:
