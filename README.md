@@ -1,15 +1,18 @@
+<p align="center">
+  <img src="./cyberpunk-build.gif"
+       width="100%"
+       alt="Rohit Cyberpunk ASCII Developer Banner">
+</p>
+
 <div align="center">
-  <img src="banner.gif" alt="Rohit - Cyberpunk Developer Banner" width="100%" />
 
-  <br/><br/>
+### 👋 Hi there, I'm Rohit Kumar Mandal!
+*Computer Science Student • AI/ML Enthusiast • Full-Stack Developer*
 
-  ### 👋 Hi there, I'm Rohit Kumar Mandal!
-  *Computer Science Student • AI/ML Enthusiast • Full-Stack Developer*
+<br/>
 
-  <br/>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-mandal-5145333b4)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/mandalrohitkumar026-max)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-mandal-5145333b4)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/mandalrohitkumar026-max)
 
 </div>
 
